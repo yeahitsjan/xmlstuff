@@ -3,6 +3,8 @@
     <StationString>1LIVE DIGGI|https://wdr-1live-diggi.icecastssl.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3</StationString>
     <StationString>WDR2 Rheinland|https://wdr-wdr2-rheinland.icecastssl.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3</StationString>
     <StationString>WDR2 Rhein Ruhr|https://wdr-wdr2-rheinruhr.icecastssl.wdr.de/wdr/wdr2/rheinruhr/mp3/128/stream.mp3</StationString>
+    <StationString>bigFM|http://streams.bigfm.de/hmr-128-mp3</StationString>
+    <StationString>Mix104,7 WSGL|http://17443.live.streamtheworld.com/WSGL_FM.mp3</StationString>
     <StationString>ENERGY DANCE|http://cdn.nrjaudio.fm/adwz1/de/33015/aac_64.mp3</StationString>
     <StationString>I Love Radio|https://streams.ilovemusic.de/iloveradio1.mp3</StationString>
     <StationString>I Love Dance|https://streams.ilovemusic.de/iloveradio2.mp3</StationString>
